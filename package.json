@@ -1,0 +1,13 @@
+{
+  "name": "todos-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "workspaces": ["apps/*"],
+  "dependencies": {
+    "express": "^4.17.1",
+    "middleware1": "1.0.0",
+    "middleware2": "1.0.0"
+  }
+}
