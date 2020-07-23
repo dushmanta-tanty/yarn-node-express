@@ -1,0 +1,15 @@
+{
+  "logs": [
+    {
+      "url": "/todo/App/api/todo/1",
+      "body": {},
+      "status": 200,
+      "response": {
+        "id": 1,
+        "title": "Walk"
+      },
+      "timestamp": 1595473285889
+    }
+  ],
+  "last-modified": 1595473285889
+}
